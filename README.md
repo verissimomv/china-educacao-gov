@@ -103,10 +103,7 @@ python analise_indicadores.py
 
 ## 6. Publicação via GitHub Pages
 
-1. Acesse o repositório no GitHub e clique na aba **Settings**.
-2. No menu lateral esquerdo, selecione **Pages** (na seção *Code and automation*).
-3. Em **Build and deployment > Branch**, escolha `main` e a pasta `/ (root)`, depois clique em **Save**.
-4. Aguarde cerca de 1 a 2 minutos e acesse o site publicado em:
+   Acesse o site publicado em:
    `https://verissimomv.github.io/<nome-do-repositorio>/`
 
 ---
