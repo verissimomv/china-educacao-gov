@@ -99,8 +99,6 @@ pip install pandas
 python analise_indicadores.py
 ```
 
-> **Nota sobre a extensão do CSV:** No repositório, o arquivo de dados está nomeado como `indicadores_educacao_china` (sem extensão explícita). Antes de rodar o script, renomeie-o localmente para `indicadores_educacao_china.csv` ou atualize o nome do arquivo na função `pd.read_csv()` em `analise_indicadores.py`.
-
 ---
 
 ## 6. Publicação via GitHub Pages
