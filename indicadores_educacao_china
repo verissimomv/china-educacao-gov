@@ -1,0 +1,44 @@
+Categoria,Indicador,Valor,Unidade,Ano_Referencia,Recorte_Regional,Observacoes
+Escala e Acesso,Total de estudantes na educação formal,"280,40",Milhões de estudantes,2025,Nacional,Maior sistema educacional do mundo
+Escala e Acesso,Estudantes na educação compulsória (1º ao 9º ano),"156,88",Milhões de estudantes,2025,Nacional,Abrange 6 anos de primário + 3 de secundário júnior
+Escala e Acesso,Taxa bruta de matrícula na pré-escola,"92,9",%,2025,Nacional,Cobertura de pré-escolas acessíveis supera 90%
+Escala e Acesso,Taxa bruta de matrícula no ensino primário,"99,32",%,2023,Nacional,Universalização consolidada
+Escala e Acesso,Taxa de consolidação/conclusão da educação compulsória (9 anos),"96,1",%,2025,Nacional,Conclusão do ciclo obrigatório de 9 anos
+Escala e Acesso,Taxa bruta de matrícula no ensino médio (sênior),"92,0",%,2025,Nacional,"Era 91,8% em 2023"
+Escala e Acesso,Taxa bruta de matrícula no ensino superior,"61,3",%,2025,Nacional,"Era 60,2% em 2023"
+Escala e Acesso,Escala total de estudantes no ensino superior,"48,73",Milhões de estudantes,2025,Nacional,"Inclui cursos curtos, graduação e pós-graduação"
+Escala e Acesso,Candidatos ao vestibular nacional (Gaokao),"12,9",Milhões de candidatos,2026,Nacional,Exame nacional de admissão ao ensino superior
+Escala e Acesso,Taxa de alfabetização geral,"97,0",%,2020,Nacional,98% homens e 95% mulheres em 2023
+Financiamento e Infraestrutura,Investimento fiscal público em educação (% do PIB),"4,02",% do PIB,2024,Nacional,Mantido acima de 4% por mais de uma década
+Financiamento e Infraestrutura,Escolas primárias e secundárias que atendem padrões de infraestrutura,>90,%,2023,Nacional,Padrão para quatro tipos de equipamentos e instalações
+Desempenho Internacional (PISA),PISA 2025 - Matemática (China B-S-J-Z),612,Pontos,2025,"Pequim, Xangai, Jiangsu e Zhejiang",Média OCDE: 463 pts; 54% nos níveis 5 ou 6
+Desempenho Internacional (PISA),PISA 2025 - Ciências (China B-S-J-Z),597,Pontos,2025,"Pequim, Xangai, Jiangsu e Zhejiang",Média OCDE: 482 pts (+115 pts de vantagem)
+Desempenho Internacional (PISA),PISA 2025 - Resolução Computacional de Problemas (China B-S-J-Z),560,Pontos,2025,"Pequim, Xangai, Jiangsu e Zhejiang",Média OCDE: 500 pts (+60 pts de vantagem)
+Desempenho Internacional (PISA),PISA 2025 - Leitura (China B-S-J-Z),527,Pontos,2025,"Pequim, Xangai, Jiangsu e Zhejiang",Média OCDE: 461 pts (+66 pts de vantagem)
+Desempenho Internacional (PISA),PISA 2012 - Matemática (Xangai),613,Pontos,2012,Xangai,1º lugar global na amostra piloto
+Desempenho Internacional (PISA),PISA 2012 - Ciências (Xangai),580,Pontos,2012,Xangai,1º lugar global na amostra piloto
+Desempenho Internacional (PISA),PISA 2012 - Leitura (Xangai),570,Pontos,2012,Xangai,1º lugar global na amostra piloto
+Evolução Histórica,Anos médios de escolaridade (1990),"5,52",Anos,1990,Nacional,Série censitária histórica
+Evolução Histórica,Anos médios de escolaridade (2000),"7,11",Anos,2000,Nacional,Série censitária histórica
+Evolução Histórica,Anos médios de escolaridade (2010),"8,00",Anos,2010,Nacional,Série censitária histórica
+Evolução Histórica,Anos médios de escolaridade (2020),"9,91",Anos,2020,Nacional,Censo Demográfico de 2020
+Evolução Histórica,Taxa de analfabetismo (1982),"22,81",%,1982,Nacional,Série censitária histórica
+Evolução Histórica,Taxa de analfabetismo (1990),"15,88",%,1990,Nacional,Série censitária histórica
+Evolução Histórica,Taxa de analfabetismo (2000),"6,72",%,2000,Nacional,Série censitária histórica
+Evolução Histórica,Taxa de analfabetismo (2010),"4,08",%,2010,Nacional,Série censitária histórica
+Evolução Histórica,Taxa de analfabetismo (2020),"2,67",%,2020,Nacional,Censo Demográfico de 2020
+Evolução Histórica,Contribuição da educação no crescimento do IDH (1978-1992),"29,8",%,1978-1992,Nacional,Decomposição do crescimento do IDH chinês
+Evolução Histórica,Contribuição da educação no crescimento do IDH (pós-2012),"46,0",%,Pós-2012,Nacional,"Maior fator isolado de avanço (renda: 39,6%)"
+Equidade e Índices Globais,Índice de Paridade de Gênero (GPI) no ensino superior,"1,1",Índice,2023,Nacional,Leve maioria feminina nas universidades
+Equidade e Índices Globais,Índice de Educação da ONU,"0,692",Índice (0 a 1),2022,Nacional,Avaliação global da ONU
+Equidade e Índices Globais,Ranking interno de Potência Educacional (Academia Chinesa),"23º (0,62 pts)",Posição / Pontos,2023,Nacional,"EUA em 1º (0,89) e Reino Unido em 2º (0,76)"
+Desigualdades Regionais (Censo 2020),Pequim - Taxa de analfabetismo,"0,80",%,2020,Pequim (Leste),Menor taxa entre as regiões citadas
+Desigualdades Regionais (Censo 2020),Pequim - Anos médios de escolaridade,"12,64",Anos,2020,Pequim (Leste),"41,98% da população com ensino superior"
+Desigualdades Regionais (Censo 2020),Xangai - Anos médios de escolaridade,"11,81",Anos,2020,Xangai (Leste),"33,87% com ensino superior; 1,61% analfabetismo"
+Desigualdades Regionais (Censo 2020),Qinghai - Taxa de analfabetismo,"7,94",%,2020,Qinghai (Oeste),"Média de 8,85 anos de estudo"
+Desigualdades Regionais (Censo 2020),Gansu - Taxa de analfabetismo,"6,72",%,2020,Gansu (Oeste),Assimetria regional frente ao litoral
+Desigualdades Regionais (Censo 2020),Tibete - Anos médios de escolaridade,"6,75",Anos,2020,Tibete (Oeste),"Apenas 33,83% com educação compulsória concluída"
+Desigualdades Estruturais,Adultos (25-64 anos) sem ensino médio completo,>60,%,Recente,Nacional,Média da OCDE é inferior a 20%
+Desigualdades Estruturais,Adultos rurais (25+ anos) sem ensino fundamental II completo,>40,%,Recente,Área Rural,Mais de dois em cada cinco adultos rurais
+Desigualdades Estruturais,Gasto público por aluno no ensino médio rural,13.360,RMB (Yuans),2017,Área Rural,"25,2% inferior à média nacional de 16.727 RMB"
+Desigualdades Estruturais,Desemprego juvenil urbano,>21,%,2023 (Jun),Área Urbana,Descompasso entre expansão superior e mercado
