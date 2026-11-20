@@ -38,3 +38,56 @@ educacao-china/
 ├── indicadores_educacao_china    # Base de dados com 43 indicadores educacionais (CSV)
 ├── schema_e_consultas.sql        # Modelagem DDL e consultas analíticas em SQL
 └── analise_indicadores.py        # Pipeline ETL em Python + SQLite para análise dos dados
+### 3. Modelagem SQL & Pipeline Python (`schema_e_consultas.sql` e `analise_indicadores.py`)
+* **`schema_e_consultas.sql`:** Define o schema relacional (`CREATE TABLE indicadores_educacao_china`) compatível com SQLite, PostgreSQL e MySQL, além de consultas analíticas para agregação por categoria, evolução censitária, ranking PISA 2025 e disparidades Leste–Oeste.
+* **`analise_indicadores.py`:** Lê a base de dados, higieniza valores textuais e numéricos (tratando decimais, milhares e operadores como `>`), persiste os dados em um banco local `educacao_china.db` via `sqlite3` e executa as consultas analíticas com `pandas`.
+
+---
+
+## 4. Principais Resultados das Análises
+
+| Eixo Analítico | Indicador / Recorte | Resultado |
+| :--- | :--- | :--- |
+| **Escala & Acesso (2025)** | Total de estudantes na educação formal | 280,40 milhões |
+| **Escala & Acesso (2025)** | Conclusão da educação compulsória (9 anos) | 96,1% |
+| **Escala & Acesso (2025)** | Taxa bruta de matrícula no ensino superior | 61,3% (48,73 milhões de estudantes) |
+| **Desempenho PISA 2025** | Matemática — Grupo B-S-J-Z (vs. média OCDE) | 612 pontos (+149 pts acima da OCDE) |
+| **Evolução Histórica** | Taxa de analfabetismo (1982 → 2020) | Queda de 22,81% para 2,67% |
+| **Evolução Histórica** | Escolaridade média nacional (1990 → 2020) | Aumento de 5,52 para 9,91 anos |
+| **Assimetria Regional (2020)** | Escolaridade média: Pequim vs. Tibete | 12,64 anos (Pequim) vs. 6,75 anos (Tibete) |
+
+---
+## 5. Como Executar Localmente
+
+### 5.1. Clonar o Repositório
+```bash
+git clone [https://github.com/verissimomv/](https://github.com/verissimomv/)<nome-do-repositorio>.git
+cd <nome-do-repositorio>
+python -m http.server 8000
+
+pip install pandas
+python analise_indicadores.py
+```bash
+git clone [https://github.com/verissimomv/](https://github.com/verissimomv/)<nome-do-repositorio>.git
+cd <nome-do-repositorio>
+
+
+6. Publicação via GitHub Pages
+Acesse o repositório no GitHub e clique na aba Settings.
+
+No menu lateral esquerdo, selecione Pages (na seção Code and automation).
+
+Em Build and deployment > Branch, escolha main e a pasta / (root), depois clique em Save.
+
+Aguarde cerca de 1 a 2 minutos e acesse o site publicado em:https://verissimomv.github.io/<nome-do-repositorio>/
+
+7. Referências e Fontes dos Dados
+Ministério da Educação da República Popular da China (MOE): Boletins estatísticos nacionais de desenvolvimento educacional (2023–2026).
+
+OCDE (PISA 2012 & 2025): Relatórios de avaliação internacional de estudantes (amostra B-S-J-Z: Pequim, Xangai, Jiangsu e Zhejiang).
+
+National Bureau of Statistics of China (NBS): Séries históricas dos Censos Demográficos Nacionais (1982–2020).
+
+Literatura Acadêmica: Estudos sobre financiamento educacional, reforma do sistema Hukou, política de Dupla Redução (Shuangjian) e decomposição do Índice de Desenvolvimento Humano (IDH) chinês.
+
+Autor
